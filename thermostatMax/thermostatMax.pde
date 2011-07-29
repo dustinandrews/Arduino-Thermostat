@@ -1,7 +1,9 @@
-/*
- Seven Segment 4 digit driver
- Made for an LED display with a single common anode for all digits.
- */
+//Arduino powered thermostat by Dustin Andrews
+//License: http://creativecommons.org/licenses/by/3.0/
+
+
+//MAX6675 Version
+
 
 // constants won't change. They're used here to 
 //pins for segment of the displays, Semi random due to board layout considerations.
